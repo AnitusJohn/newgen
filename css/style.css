@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+.navbar-brand{
+     
+        color: #c5d666 !important;
+    
+}
+.bg-dark {
+    background-color: #ffff !important;
+  }
+  .banner_img{
+    background-image: url('../images/anitus_banner.jpg');
+    height: 70vh;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+  .bg_aa{
+background-image: url('../images/bg_aa.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: auto;
+padding: 50% 5% 0;
+color: #bd15bb;
+  font-weight: 700;
+  font-size: 31px;
+  border-radius: 10px;
+  }
+  .bg_a{
+    background-image: url('../images/bg_a.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding: 25% 5% 0;
+    color: #fff;
+      font-weight: 700;
+      font-size: 31px;
+      border-radius: 10px;
+  }
+  .bg_b{
+    background-image: url('../images/bg_b.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding: 25% 5% 0;
+    color: #fff;
+      font-weight: 700;
+      font-size: 31px;
+      border-radius: 10px;
+  }
+  .bg_c{
+    background-image: url('../images/bg_c.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding: 25% 5% 0;
+    color: #fff;
+      font-weight: 700;
+      font-size: 31px;
+      border-radius: 10px;
+  }
+  ul li{
+    color: #fff;
+  }
+  ul h3{
+    color: #fff;
+  }
